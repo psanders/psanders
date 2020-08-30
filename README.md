@@ -6,7 +6,7 @@
 </p>
 
 ---
-I'm a telematics engineer passionate about making open-source more accessible, creating technology to elevate people, and build community. Some technologies I enjoy working with include Docker, Kubernetes, NodeJS, Redis. I am currently working on a telephony stack named Project Fonos. My interest in the VoIP and telephony led me to build Routr.io, Astive Toolkit, and Project Fonos.
+I'm a telematics engineer passionate about making open-source more accessible, creating technology to elevate people, and build community. Some technologies I enjoy working with include Docker, Kubernetes, NodeJS, Redis. I am currently working on a telephony stack named Project Fonos. My interest in the VoIP and telephony led me to build Routr, Astive Toolkit, and Project Fonos.
 
 - 🔭 I’m currently working on: [Project Fonos](https://github.com/fonoster/fonos), [Routr.io](https://routr.io)
 - 💬 Ask me about: VoIP, Kubernetes, Docker
