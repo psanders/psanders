@@ -11,4 +11,6 @@ I'm a telematics engineer passionate about making open-source more accessible, c
 - 🔭 I’m currently working on: [Project Fonos](https://github.com/fonoster/fonos), [Routr.io](https://routr.io), [Nearo](https://github.com/psanders/nearo), [Kaffeine Minds](https://kaffeineminds.com)
 - 💬 Ask me about: VoIP, Kubernetes, Docker
 - 📫 How to reach me: [@sandedro](https://twitter.com/sandedro)
-- ⚡ Fun facts: Former U.S Army Paratrooper (Ranger) / Avid Scuba Diver (Dive Master)
+- ⚡ Fun facts: 
+  - Former U.S Army Paratrooper (Ranger Qualified)
+  - Avid Scuba Diver (Dive Master 👌🏽)
