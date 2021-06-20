@@ -11,4 +11,4 @@ I'm a telematics engineer passionate about making open-source more accessible, c
 - 🔭 I’m currently working on: [Project Fonos](https://github.com/fonoster/fonos), [Routr.io](https://routr.io), [Nearo](https://github.com/psanders/nearo), [Kaffeine Minds](https://kaffeineminds.com)
 - 💬 Ask me about: VoIP, Kubernetes, Docker
 - 📫 How to reach me: [@sandedro](https://twitter.com/sandedro)
-- ⚡ Fun fact: I spend the last ten years working as an Infantryman in the US Army 
+- ⚡ Fun fact: I spend ten years in the U.S Army the last few working as a U.S. Army Paratrooper (Ranger) 
