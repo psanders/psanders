@@ -1,3 +1,4 @@
+<img alt="Building the Open Source alternative of Twilio" src="https://raw.githubusercontent.com/psanders/psanders/master/social_background.png"></img></a>
 
 <h3 align="center">👋 Hi there! I'm Pedro</h3>
 <p align="center">
