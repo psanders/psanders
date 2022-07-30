@@ -13,7 +13,7 @@ Some technologies I enjoy working with include Docker, Kubernetes, NodeJS, and R
 
 I'm currently working on a telephony stack to help companies leave costly CPaaS/UCaaS. 
 
-- 🔭 I’m currently working on: [Fonoster](https://github.com/fonoster/fonoster), [Routr.io](https://routr.io), [Nearo](https://github.com/psanders/nearo), [Kaffeine Minds](https://kaffeineminds.com)
+- 🔭 I’m currently working on: [Fonoster](https://github.com/fonoster/fonoster), [Routr.io](https://routr.io), [Kaffeine Minds](https://kaffeineminds.com)
 - 💬 Ask me about: VoIP, Kubernetes, Docker
 - 📫 How to reach me: [@sandedro](https://twitter.com/sandedro)
 - ⚡ Fun facts: 
