@@ -7,9 +7,11 @@
 </p>
 
 ---
-I'm a telematics engineer passionate about making open-source more accessible, creating technology to improve people's lives, and build community. 
+I'm a telematics engineer passionate about making open-source more accessible, creating technology to improve people's lives, and building community. 
 
-Some technologies I enjoy working with include Docker, Kubernetes, NodeJS, and Redis. My interest in the VoIP and telephony led me to develop Astive Toolkit, Routr, and Fonoster. 
+I enjoy working with technologies like Docker, Kubernetes, NodeJS, and Redis. 
+
+My interest in the VoIP and telephony led me to develop Astive Toolkit, Routr, and Fonoster. 
 
 I'm currently working on a telephony stack to help companies leave costly CPaaS/UCaaS. 
 
