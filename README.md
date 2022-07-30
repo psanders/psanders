@@ -25,5 +25,12 @@ I'm currently working on a telephony stack to help companies leave costly CPaaS/
   - Former U.S Army Paratrooper (Ranger Qualified)
   - Avid Scuba Diver (Dive Master 👌🏽)
 
+## Latest articles
+
+- [How we created an Open Source alternative to Twilio](https://pedrosanders.medium.com/last-year-around-the-time-i-started-assembling-team-fonos-i-published-a-post-on-reddit-that-d07fa01e5fc1)
+- [Deploying Fonoster with Cloud Init](https://pedrosanders.medium.com/at-fonoster-inc-we-want-to-help-companies-and-individuals-that-wish-to-adopt-project-fonos-pf-as-270fa70e1c06)
+- [The essentials of building Voice Applications with Fonoster](https://pedrosanders.medium.com/the-purpose-of-this-tutorial-is-to-show-the-basics-of-project-fonos-a4752fa1e648)
+- [How to build a conversational IVR with Fonos and Dialogflow](https://pedrosanders.medium.com/how-to-build-a-conversational-ivr-with-fonos-and-dialogflow-2ac54ef6c337)
+- [Getting started with Routr](https://pedrosanders.medium.com/tutorial-getting-started-with-routr-sip-server-f66c5216690a)
  
 If you enjoy my work consider becoming a [GitHub Sponsor](https://github.com/sponsors/psanders) 👈👈
