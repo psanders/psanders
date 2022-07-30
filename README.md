@@ -33,4 +33,4 @@ I'm currently working on a telephony stack to help companies leave costly CPaaS/
 - [How to build a conversational IVR with Fonos and Dialogflow](https://pedrosanders.medium.com/how-to-build-a-conversational-ivr-with-fonos-and-dialogflow-2ac54ef6c337)
 - [Getting started with Routr](https://pedrosanders.medium.com/tutorial-getting-started-with-routr-sip-server-f66c5216690a)
  
-If you enjoy my work consider becoming a [GitHub Sponsor](https://github.com/sponsors/psanders) 👈👈
+If you enjoy my work, consider becoming a [GitHub Sponsor](https://github.com/sponsors/psanders) 👈👈
