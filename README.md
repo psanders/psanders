@@ -24,3 +24,6 @@ I'm currently working on a telephony stack to help companies leave costly CPaaS/
 - ⚡ Fun facts: 
   - Former U.S Army Paratrooper (Ranger Qualified)
   - Avid Scuba Diver (Dive Master 👌🏽)
+
+ 
+If you enjoy my work consider becoming a [GitHub Sponsor](https://github.com/sponsors/psanders) 👈👈
