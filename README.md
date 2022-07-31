@@ -20,7 +20,7 @@ I'm currently working on a telephony stack to help companies leave costly CPaaS/
 
 - 🔭 I’m currently working on: [Fonoster](https://github.com/fonoster/fonoster), [Routr.io](https://routr.io), [Kaffeine Minds](https://kaffeineminds.com)
 - 💬 Ask me about: VoIP, Kubernetes, Docker
-- 📫 How to reach me: [@sandedro](https://twitter.com/sandedro)
+- 📫 How to reach me: [@sandedro](https://twitter.com/pedrosanders_)
 - ⚡ Fun facts: 
   - Former U.S Army Paratrooper (Ranger Qualified)
   - Avid Scuba Diver (Dive Master 👌🏽)
