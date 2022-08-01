@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://twitter.com/sandedro">Twitter</a> •
   <a href="https://www.linkedin.com/in/sanders-pedro/">Linkedin</a> •
-  <a href="https://fonoster.com">Website</a> •
   <a href="https://www.getrevue.co/profile/pedrosanders_">Newsletter</a> •
   <a href="https://linktr.ee/psanders">Linktree</a>
 </p>
