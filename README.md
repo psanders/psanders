@@ -24,6 +24,17 @@ I'm currently working on a telephony stack to help companies leave costly CPaaS/
   - Former U.S Army Paratrooper (Ranger Qualified)
   - Avid Scuba Diver (Dive Master 👌🏽)
 
+## eBook - The future of programmable SIP servers
+
+<a href="https://fonoster.gumroad.com/l/the-future-of-programmable-sip-servers">
+<img src="https://raw.githubusercontent.com/psanders/psanders/master/book.png" width="25%"></a>
+
+This handbook is designed to provide a detailed understanding of the innovative features, challenges, and opportunities that Routr presents in the realm of programmable SIP Servers.
+
+Get the eBook.
+
+* [Programmable, cloud ready, open source](https://fonoster.gumroad.com/l/the-future-of-programmable-sip-servers)
+
 ## Latest articles
 
 - [How we created an Open Source alternative to Twilio](https://pedrosanders.medium.com/last-year-around-the-time-i-started-assembling-team-fonos-i-published-a-post-on-reddit-that-d07fa01e5fc1)
