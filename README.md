@@ -27,7 +27,7 @@ I'm currently working on a telephony stack to help companies leave costly CPaaS/
 ## eBook - The future of programmable SIP servers
 
 <a href="https://fonoster.gumroad.com/l/the-future-of-programmable-sip-servers">
-<img src="https://raw.githubusercontent.com/psanders/psanders/master/book.png" width="25%"></a>
+<img src="https://raw.githubusercontent.com/psanders/psanders/master/book.png" width="250px"></a>
 
 This handbook is designed to provide a detailed understanding of the innovative features, challenges, and opportunities that Routr presents in the realm of programmable SIP Servers.
 
