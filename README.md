@@ -17,7 +17,7 @@ My interest in VoIP and telephony led me to develop Astive Toolkit, Routr, and F
 
 I'm currently working on a telephony stack to help companies leave costly CPaaS/UCaaS. 
 
-- 🔭 I’m currently working on: [Fonoster](https://github.com/fonoster/fonoster), [Routr](https://routr.io), and [Kaffeine Minds](https://kaffeineminds.com)
+- 🔭 I’m currently working on: [Fonoster](https://github.com/fonoster/fonoster), [Routr](https://routr.io), and [Goodtok](https://goodtok.io)
 - 💬 Ask me about: VoIP, Kubernetes, Docker
 - 📫 How to reach me: [@pedrosanders_](https://twitter.com/pedrosanders_)
 - ⚡ Fun facts: 
