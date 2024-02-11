@@ -3,7 +3,7 @@
 <h3 align="center">👋 Hi there! I'm Pedro</h3>
 <p align="center">
   <a href="https://github.com/sponsors/psanders">Sponsor</a> •
-  <a href="https://twitter.com/sandedro">Twitter</a> •
+  <a href="https://twitter.com/pedrosanders_">Twitter</a> •
   <a href="https://www.linkedin.com/in/sanders-pedro/">Linkedin</a> •
   <a href="https://linktr.ee/psanders">Linktree</a>
 </p>
