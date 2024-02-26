@@ -37,10 +37,9 @@ Get the eBook.
 
 ## Latest articles
 
-- [How we created an Open Source alternative to Twilio](https://pedrosanders.medium.com/last-year-around-the-time-i-started-assembling-team-fonos-i-published-a-post-on-reddit-that-d07fa01e5fc1)
-- [Deploying Fonoster with Cloud Init](https://pedrosanders.medium.com/at-fonoster-inc-we-want-to-help-companies-and-individuals-that-wish-to-adopt-project-fonos-pf-as-270fa70e1c06)
-- [The essentials of building Voice Applications with Fonoster](https://pedrosanders.medium.com/the-purpose-of-this-tutorial-is-to-show-the-basics-of-project-fonos-a4752fa1e648)
-- [How to build a conversational IVR with Fonos and Dialogflow](https://pedrosanders.medium.com/how-to-build-a-conversational-ivr-with-fonos-and-dialogflow-2ac54ef6c337)
-- [Getting started with Routr](https://pedrosanders.medium.com/tutorial-getting-started-with-routr-sip-server-f66c5216690a)
+- [Calling a door phone from a web browser](https://dev.to/fonoster/calling-a-door-phone-from-a-web-browser-1bko)
+- [Building scalable IVRs for businesses with Routr and Asterisk](https://dev.to/fonoster/building-scalable-ivrs-for-businesses-with-routr-and-asterisk-cjd)
+- [Browser-to-Browser calling with SIP.js and Routr](https://dev.to/fonoster/browser-to-browser-calling-with-sipjs-and-routr-3l07)
+- [Simplify SIP.jS security with short-lived tokens](https://dev.to/psanders/simplify-sipjs-security-with-short-lived-tokens-mb8)
  
 If you enjoy my work, consider becoming a [GitHub Sponsor](https://github.com/sponsors/psanders) 👈👈
