@@ -40,6 +40,6 @@ Get the eBook.
 - [Calling a door phone from a web browser](https://dev.to/fonoster/calling-a-door-phone-from-a-web-browser-1bko)
 - [Building scalable IVRs for businesses with Routr and Asterisk](https://dev.to/fonoster/building-scalable-ivrs-for-businesses-with-routr-and-asterisk-cjd)
 - [Browser-to-Browser calling with SIP.js and Routr](https://dev.to/fonoster/browser-to-browser-calling-with-sipjs-and-routr-3l07)
-- [Simplify SIP.jS security with short-lived tokens](https://dev.to/psanders/simplify-sipjs-security-with-short-lived-tokens-mb8)
+- [Simplify SIP.js security with short-lived tokens](https://dev.to/psanders/simplify-sipjs-security-with-short-lived-tokens-mb8)
  
 If you enjoy my work, consider becoming a [GitHub Sponsor](https://github.com/sponsors/psanders) 👈👈
