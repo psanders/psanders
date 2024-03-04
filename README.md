@@ -37,6 +37,7 @@ Get the eBook.
 
 ## Latest articles
 
+- [Building a VoIP Network with Routr on DigitalOcean Kubernetes](https://dev.to/fonoster/building-a-voip-network-with-routr-on-digitalocean-kubernetes-part-i-f8n)
 - [Calling a door phone from a web browser](https://dev.to/fonoster/calling-a-door-phone-from-a-web-browser-1bko)
 - [Building scalable IVRs for businesses with Routr and Asterisk](https://dev.to/fonoster/building-scalable-ivrs-for-businesses-with-routr-and-asterisk-cjd)
 - [Browser-to-Browser calling with SIP.js and Routr](https://dev.to/fonoster/browser-to-browser-calling-with-sipjs-and-routr-3l07)
