@@ -11,14 +11,14 @@
 ---
 I'm a telematics engineer passionate about making open-source more accessible, creating technology to improve people's lives, and building community. 
 
-I enjoy working with technologies like Voicebots, Docker, Kubernetes, NodeJS, and Redis. 
+I enjoy working with technologies like Voice AI, Docker, Kubernetes, NodeJS, and Redis. 
 
 My interest in VoIP and telephony led me to develop Astive Toolkit, Routr, and Fonoster. 
 
-I'm currently working on a telephony stack to help companies leave costly CPaaS/UCaaS. 
+I'm working on a telephony stack to help companies leave costly CPaaS/UCaaS. 
 
 - 🔭 I’m currently working on: [Fonoster](https://github.com/fonoster/fonoster), [Routr](https://github.com/fonoster/routr), and [Goodtok](https://github.com/fonoster/goodtok)
-- 💬 Ask me about: VoIP, Kubernetes, Docker
+- 💬 Ask me about: Voice AI, Kubernetes, Docker
 - 📫 How to reach me: [@psanders](https://linktr.ee/psanders)
 - ⚡ Fun facts: 
   - Former U.S Army Paratrooper (Ranger Qualified)
@@ -33,7 +33,7 @@ This handbook is designed to provide a detailed understanding of the innovative 
 
 Get the eBook.
 
-* [Programmable, cloud ready, open source](https://fonoster.gumroad.com/l/the-future-of-programmable-sip-servers)
+* [Programmable, cloud-ready, open source](https://fonoster.gumroad.com/l/the-future-of-programmable-sip-servers)
 
 ## Latest articles
 
