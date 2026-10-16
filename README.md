@@ -1,4 +1,4 @@
-<img alt="Pedro Sanders. Voice AI, carrier edge to LLM." src="./github-banner.png">
+<img alt="Pedro Sanders. Voice AI, carrier edge to LLM." src="./github-banner.svg" width="100%">
 
 I'm Pedro, founder of [Fonoster](https://github.com/fonoster/fonoster).
 
