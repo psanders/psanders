@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./github-banner-light.png">
-  <img alt="Pedro Sanders. Voice AI, carrier edge to LLM." src="./github-banner-light.png">
-</picture>
+<img alt="Pedro Sanders. Voice AI, carrier edge to LLM." src="./github-banner.png">
 
 I'm Pedro, founder of [Fonoster](https://github.com/fonoster/fonoster).
 
